@@ -1,0 +1,4 @@
+https://developers.facebook.com/docs/php/howto/example_facebook_login?locale=pt_BR
+
+https://canaltech.com.br/software/aprenda-a-adicionar-o-login-com-facebook-no-seu-site-usando-javascript-ou-php/
+
