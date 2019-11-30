@@ -2,3 +2,9 @@ https://developers.facebook.com/docs/php/howto/example_facebook_login?locale=pt_
 
 https://canaltech.com.br/software/aprenda-a-adicionar-o-login-com-facebook-no-seu-site-usando-javascript-ou-php/
 
+
+
+Pwa:
+
+Tendência até no Windows:
+https://sempreupdate.com.br/aplicativos-web-progressivos-no-edge-chromium-serao-muito-semelhantes-a-um-aplicativo-nativo/
